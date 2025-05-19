@@ -1,4 +1,4 @@
-# 📦 Foodpanda Pro Subscription Analysis (UTAUT2-Based Study)
+# Foodpanda Pro Subscription Analysis (UTAUT2-Based Study)
 
 This repository contains a comprehensive analysis of user behavior and decision-making regarding **Foodpanda Pro subscription** in Pakistan. The study is grounded in the **UTAUT2 framework** and expanded with additional constructs like **awareness, trust, ordering frequency, and demographics**. 
 
