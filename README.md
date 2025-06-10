@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive analysis of user behavior and decision-making regarding **Foodpanda Pro subscription** in Pakistan. The study is grounded in the **UTAUT2 framework** and expanded with additional constructs like **awareness, trust, ordering frequency, and demographics**. 
 
+## Authors: Husnain Ali, Ahmad Jabbar, Zainab Fatima
+
 It explores key behavioral and contextual factors influencing adoption or rejection of the subscription model, using both quantitative survey data and qualitative insights.
 
 ---
